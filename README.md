@@ -1,1 +1,1 @@
-# Linear-Regression-and-GLM-
+# Linear Models and Regression Analysis
